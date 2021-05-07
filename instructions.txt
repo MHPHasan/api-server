@@ -1,0 +1,6 @@
+cmd: node index.js
+
+API_URL:
+	1: http://localhost:3000/items (all items)
+	2: http://localhost:3000/item/1 (single item)
+	3: http://localhost:3000/search/fo (searcg)
